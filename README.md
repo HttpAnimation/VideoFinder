@@ -1,2 +1,2 @@
 # VideoFinder
-Finds the smallest video file and sends it out
+Takes a folder and gives you a lot of info about videos in it
